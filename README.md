@@ -1,4 +1,4 @@
-# The Crunchy Mouthful
+# Solo Quest: The Crunchy Mouthful
 **`Quest giver: Chef Sven`**
 >I want to open up a new food cart.  Expand the business, reach new customers, you know the typical moves.  I have the location already picked out.  I mean its a cart so there is not a set location so picking out the location was not really difficult.  What I really need help with is making the system for purchases.  I am scaling down my menu so I need some different requirements.  Help me and you can have free meals for a month.
 
