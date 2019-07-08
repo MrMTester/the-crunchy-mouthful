@@ -1,0 +1,2 @@
+This file is here so that the folder structure is pushed to GitHub.  Reminder you will need to
+create your Java class file in the same location as this file is.
