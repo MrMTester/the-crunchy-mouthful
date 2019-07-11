@@ -1,6 +1,9 @@
-# Solo Quest: The Crunchy Mouthful
+# The Crunchy Mouthful
 **`Quest giver: Chef Sven`**
->I want to open up a new food cart.  Expand the business, reach new customers, you know the typical moves.  I have the location already picked out.  I mean its a cart so there is not a set location so picking out the location was not really difficult.  What I really need help with is making the system for purchases.  I am scaling down my menu so I need some different requirements.  Help me and you can have free meals for a month.
+>I want to open up a new food cart.  Expand the business, reach new customers, you know the 
+typical moves.  I have the location already picked out...  I mean its a cart so there is not a 
+set location. Picking out the location was not really difficult.  What I really need help with
+ is making the system for purchases.  I am scaling down my menu so I need some different requirements.  Help me and you can have free meals for a month.
 
 ##### Objectives
 - Create issues on GitHub
@@ -13,13 +16,18 @@
   - Your program should continue to loop around and ask this question until the answer is no
 - As long as there is a person willing to place an order you will need to do the following
 - Display to them the menu choices and prices
-  - **1.** Chipotle Seitan Breakfast Burrito ($11.00)
-  - **2.** Creole Grilled Tofu ($12.00)
-  - **3.** Beastmode Burger Deluxe ($12.50)
-  - **4.** Water ($2.00)
-  - **5.** Root Beer ($3.00)
-  - **6.** Display Menu
-  - **7.** Checkout
+  - 1. Chipotle Seitan Breakfast Burrito ($11.00)
+  - 2. Creole Grilled Tofu ($12.00)
+  - 3. Beastmode Burger Deluxe ($12.50)
+  - 4. Water ($2.00)
+  - 5. Root Beer ($3.00)
+  - 6. Display Menu
+  - 7. Checkout
+- Ask the customer what item(s) they would like to order
+  - Customers are allowed to make a maximum of 2 selections to order
+  - You must store customer item orders independently, no collections allowed
+- Once the customer decides to or has made 2 selections they should checkout
+- Upon checkout you should display the items the customer ordered along with individual and total prices for the order
 - Ask the customer how much they are paying for their order
 - Create a public static method `calculateChange` that takes a two `double` variables as parameters
   - first the user payment
